@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command">
+    <sn_cli_metadata_command action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_endpoint display_value="api/now/table/x_snc_uxqe_uxqetestplan">c25651fa0cf82010f877ce2cf7c25d59</api_endpoint>
+        <callback_expression>response.result.status=="completed"</callback_expression>
+        <callback_interval>1000</callback_interval>
+        <callback_max_retries>10</callback_max_retries>
+        <command_group display_value="testplan">0da6d9ba0cf82010f877ce2cf7c25d51</command_group>
+        <example/>
+        <failure_expression>response.result.status=="NS"</failure_expression>
+        <failure_message>Test plan creation {response.result.number} is failed</failure_message>
+        <is_poll_command>false</is_poll_command>
+        <long_description>create a new test plan record by providing field associated values</long_description>
+        <name>create</name>
+        <poll_command display_value="checktestplanstatus">03b316fa0c7c2010f877ce2cf7c25d64</poll_command>
+        <progress_message>Test plan creation is in progress</progress_message>
+        <short_description>create a new test plan record</short_description>
+        <success_expression>response.result.status=="completed" &amp;&amp; flags.noofstories&gt;=10 &amp;&amp; flags.newtestplan==true</success_expression>
+        <success_message>New test plan {response.result.number} is created successfully</success_message>
+        <sys_class_name>sn_cli_metadata_command</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 05:30:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>1ec615fa0cf82010f877ce2cf7c25d5c</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>create</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_1ec615fa0cf82010f877ce2cf7c25d5c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 10:00:39</sys_updated_on>
+    </sn_cli_metadata_command>
+</record_update>

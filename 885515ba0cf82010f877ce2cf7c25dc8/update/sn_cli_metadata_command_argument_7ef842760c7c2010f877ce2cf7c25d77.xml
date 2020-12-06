@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command_argument">
+    <sn_cli_metadata_command_argument action="INSERT_OR_UPDATE">
+        <command display_value="createwithfile">e0c882fa0c3c2010f877ce2cf7c25de5</command>
+        <data_type>file input</data_type>
+        <default_value/>
+        <help_text>enter field associated values</help_text>
+        <mandatory>false</mandatory>
+        <name>data</name>
+        <order>100</order>
+        <prompt>Data</prompt>
+        <shorter_flag/>
+        <sys_class_name>sn_cli_metadata_command_argument</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 09:10:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7ef842760c7c2010f877ce2cf7c25d77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>data</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_argument_7ef842760c7c2010f877ce2cf7c25d77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 09:10:23</sys_updated_on>
+        <visibility_expression/>
+    </sn_cli_metadata_command_argument>
+</record_update>

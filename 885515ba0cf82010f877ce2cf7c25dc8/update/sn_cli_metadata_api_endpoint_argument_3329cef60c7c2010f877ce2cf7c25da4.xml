@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_api_endpoint_argument">
+    <sn_cli_metadata_api_endpoint_argument action="INSERT_OR_UPDATE">
+        <command display_value="createwithfile">e0c882fa0c3c2010f877ce2cf7c25de5</command>
+        <name>*</name>
+        <parameter_type>body</parameter_type>
+        <sys_class_name>sn_cli_metadata_api_endpoint_argument</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 09:10:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3329cef60c7c2010f877ce2cf7c25da4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>*</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_api_endpoint_argument_3329cef60c7c2010f877ce2cf7c25da4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 09:10:45</sys_updated_on>
+        <value>{flags.data}</value>
+    </sn_cli_metadata_api_endpoint_argument>
+</record_update>

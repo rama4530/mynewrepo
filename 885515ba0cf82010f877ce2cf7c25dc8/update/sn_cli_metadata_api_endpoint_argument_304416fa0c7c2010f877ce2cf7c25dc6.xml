@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_api_endpoint_argument">
+    <sn_cli_metadata_api_endpoint_argument action="INSERT_OR_UPDATE">
+        <command display_value="checktestplanstatus">03b316fa0c7c2010f877ce2cf7c25d64</command>
+        <name>sysid</name>
+        <parameter_type>path</parameter_type>
+        <sys_class_name>sn_cli_metadata_api_endpoint_argument</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 09:59:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>304416fa0c7c2010f877ce2cf7c25dc6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysid</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_api_endpoint_argument_304416fa0c7c2010f877ce2cf7c25dc6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-04 09:59:28</sys_updated_on>
+        <value>{response.result.sys_id}</value>
+    </sn_cli_metadata_api_endpoint_argument>
+</record_update>

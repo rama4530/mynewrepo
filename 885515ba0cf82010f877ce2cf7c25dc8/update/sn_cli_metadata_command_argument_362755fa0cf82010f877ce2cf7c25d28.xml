@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command_argument">
+    <sn_cli_metadata_command_argument action="INSERT_OR_UPDATE">
+        <command display_value="create">1ec615fa0cf82010f877ce2cf7c25d5c</command>
+        <data_type>file input</data_type>
+        <default_value/>
+        <help_text>enter epic details</help_text>
+        <mandatory>true</mandatory>
+        <name>epic</name>
+        <order>200</order>
+        <prompt/>
+        <shorter_flag/>
+        <sys_class_name>sn_cli_metadata_command_argument</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-04 05:32:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>362755fa0cf82010f877ce2cf7c25d28</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>epic</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_argument_362755fa0cf82010f877ce2cf7c25d28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-05 11:16:29</sys_updated_on>
+        <visibility_expression/>
+    </sn_cli_metadata_command_argument>
+</record_update>

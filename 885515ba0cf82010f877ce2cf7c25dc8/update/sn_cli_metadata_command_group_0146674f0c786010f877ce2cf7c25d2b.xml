@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command_group">
+    <sn_cli_metadata_command_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <long_description/>
+        <name>problem</name>
+        <parent_group/>
+        <short_description>crud opeartions on problem table</short_description>
+        <sys_class_name>sn_cli_metadata_command_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-05 10:36:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>0146674f0c786010f877ce2cf7c25d2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>problem</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_group_0146674f0c786010f877ce2cf7c25d2b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-05 10:36:01</sys_updated_on>
+    </sn_cli_metadata_command_group>
+</record_update>

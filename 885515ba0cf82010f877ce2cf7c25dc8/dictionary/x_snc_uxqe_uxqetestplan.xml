@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="uxqetestplan" max_length="40" name="x_snc_uxqe_uxqetestplan" sizeclass="56" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Comments" max_length="40" name="comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Epic" max_length="1024" name="epic" type="url"/>
+        <element label="Newtestplan" max_length="40" name="newtestplan" type="boolean"/>
+        <element label="Noofstories" max_length="40" name="noofstories" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="40" name="status" type="string"/>
+    </element>
+</database>

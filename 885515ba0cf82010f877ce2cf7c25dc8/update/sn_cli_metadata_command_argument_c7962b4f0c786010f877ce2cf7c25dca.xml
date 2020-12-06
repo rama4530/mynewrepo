@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cli_metadata_command_argument">
+    <sn_cli_metadata_command_argument action="INSERT_OR_UPDATE">
+        <command display_value="deleteproblem">e356e34f0c786010f877ce2cf7c25d38</command>
+        <data_type>string</data_type>
+        <default_value/>
+        <help_text>enter problem sysid</help_text>
+        <mandatory>false</mandatory>
+        <name>sysid</name>
+        <order>100</order>
+        <prompt>SysID</prompt>
+        <shorter_flag/>
+        <sys_class_name>sn_cli_metadata_command_argument</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-12-05 10:37:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c7962b4f0c786010f877ce2cf7c25dca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sysid</sys_name>
+        <sys_package display_value="uxqe" source="x_snc_uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="uxqe">885515ba0cf82010f877ce2cf7c25dc8</sys_scope>
+        <sys_update_name>sn_cli_metadata_command_argument_c7962b4f0c786010f877ce2cf7c25dca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-12-05 10:37:28</sys_updated_on>
+        <visibility_expression/>
+    </sn_cli_metadata_command_argument>
+</record_update>
